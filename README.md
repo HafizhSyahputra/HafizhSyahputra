@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwH6fQ3YJxZDdWk/giphy.gif" width="200" alt="Gift" />
+  <img src="https://preview.redd.it/how-do-you-make-an-animated-gif-without-seeing-every-layer-v0-2zb6qt76dq5c1.gif?width=944&auto=webp&s=b3e547e2c3471efa794868b3b05b0e05566d5541" width="300" alt="Gift" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Xyne <br/><i>(HafizhSyahputra)</i></h1>

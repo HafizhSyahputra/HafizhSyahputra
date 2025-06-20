@@ -4,9 +4,11 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm **Xyne** (**HafizhSyahputra**)</h1>
+<h1 align="center">👋 Hi, I'm <strong>Xyne</strong> (<em>HafizhSyahputra</em>)</h1>
 
-🚀 Software Engineer | Open Source Enthusiast
+<p align="center">
+  🚀 Software Engineer | Open Source Enthusiast
+</p>
 
 ---
 
@@ -31,9 +33,23 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎁 Fun Gifts & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafizhSyahputra&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <!-- Animated gift GIFs -->
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="Gift 1" />
+  <img src="https://media.giphy.com/media/3ohhwH6fQ3YJxZDdWk/giphy.gif" width="120" alt="Gift 2" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120" alt="Gift 3" />
 </p>
 
+<p align="center">
+  <!-- GitHub Readme Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizhSyahputra&theme=react-dark&date_format=M%20j%5B%2C%20Y%5D" alt="streak-stats" />
+</p>
+
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizhSyahputra&show_icons=true&theme=dark&count_private=true" alt="github-stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizhSyahputra&layout=compact&theme=dark" alt="top-langs" />
+</p>

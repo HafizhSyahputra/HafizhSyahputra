@@ -32,7 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HafizhSyahputra&show_icons=true&theme=dark" alt="github stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizhSyahputra&layout=compact&theme=dark" alt="top-langs" height="180"/>

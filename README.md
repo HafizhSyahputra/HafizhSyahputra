@@ -12,7 +12,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,8 +39,6 @@
 
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizhSyahputra&show_icons=true&theme=dark&count_private=true" alt="github-stats" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizhSyahputra&layout=compact&theme=dark" alt="top-langs" />
 </p>

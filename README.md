@@ -34,5 +34,6 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafizhSyahputra&theme=gruvbox&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HafizhSyahputra&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
+
